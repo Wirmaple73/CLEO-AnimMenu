@@ -1,5 +1,5 @@
 # Description
-A simple animation menu created for GTASA.
+A simple animation menu created for GTASA. (also compatible with SAMP!)
 
 The source code can be found [here](https://github.com/Wirmaple73/CLEO-AnimMenu/blob/main/Source/AnimMenu.sc).
 
