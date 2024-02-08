@@ -1,2 +1,4 @@
 * linguist-vendored
 *.sc linguist-vendored=false
+Source/* linguist-vendored
+Source/** linguist-vendored
